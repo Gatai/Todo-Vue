@@ -21,3 +21,6 @@ npm run dev
 
 ## build for production with minification
 npm run build
+
+## run serve
+npm run serve
