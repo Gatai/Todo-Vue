@@ -7,6 +7,6 @@ Frontend: --> http://localhost:8080/
 ### Design.  
 <p align="center">
   <a href="https://github.com/Gatai/Todo-Vue">
-    <img src="Library/docs/images/todovue.PNG" width="750px">
+    <img src="Todo-api/docs/images/todovue.PNG" width="750px">
   </a>
 </p>
