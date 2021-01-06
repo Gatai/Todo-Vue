@@ -3,7 +3,7 @@
 Ett frontend projekt i vue och ett api för backend. 
 
 Frontend: --> http://localhost:8080/ 
-
+Databas sql server namn: Todo
 ### Design 
 <p align="center">
   <a href="https://github.com/Gatai/Todo-Vue">
