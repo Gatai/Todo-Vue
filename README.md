@@ -1,6 +1,6 @@
 # Todo-Vue
 
-Ett frontend projekt i vue och ett api. 
+Ett frontend projekt i vue och ett api för backend. 
 
 Frontend: --> http://localhost:8080/ 
 
